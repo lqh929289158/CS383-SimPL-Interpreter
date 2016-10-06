@@ -1,8 +1,8 @@
 # SimPL Interpreter
 
-This is the final project of [course CS383 Programming Languages](http://www.cs.sjtu.edu.cn/~kzhu/cs383/) at SJTU --
-the implementation of an interpreter for the programming language SimPL based on the skeleton code v4.2.
-SimPL is a dialect of ML, and it has both functional and imperative language features.
+An interpreter for the programming language SimPL based on the skeleton code v4.2 provided by [course CS383](http://www.cs.sjtu.edu.cn/~kzhu/cs383/).
+
+SimPL is a dialect of ML, which has both functional and imperative language features (see [project tutorial](doc/spec.pdf)).
 
 ## Dependencies
 
