@@ -4,6 +4,8 @@ An interpreter for the programming language SimPL based on the skeleton code v4.
 
 SimPL is a dialect of ML, which has both functional and imperative language features (see [project tutorial](doc/spec.pdf)).
 
+![syntax](doc/simpl_syntax.png)
+
 ## Dependencies
 
 src/simpl/parser/java-cup-11a.jar
